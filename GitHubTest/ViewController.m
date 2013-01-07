@@ -26,6 +26,7 @@
     // Dispose of any resources that can be recreated.
     // First line of code added
     // Second line of code added
+    // Third line of code added
 }
 
 @end
